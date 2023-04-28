@@ -21,11 +21,11 @@ class User extends ScooterApp {
     if(result){
       this.loggedIn = false
     } else{
-      
+
     }
 
   }
 
 }
-
+ 
 module.exports = User
